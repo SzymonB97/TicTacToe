@@ -1,0 +1,17 @@
+table {
+	border: 5px solid;
+	border-collapse: collapse;
+	text-align: center;
+	margin: 20px auto;
+}
+td {
+	height: 150px;
+	width: 150px;
+	border: 5px solid;
+	font-family: monospace;
+	font-size: 120px;
+	padding: 0;
+}
+h1, div {
+	text-align: center;
+}
